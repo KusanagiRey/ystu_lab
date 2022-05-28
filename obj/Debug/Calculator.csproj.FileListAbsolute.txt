@@ -1,0 +1,21 @@
+H:\C# programs\Calculator\bin\Debug\Calculator.exe.config
+H:\C# programs\Calculator\bin\Debug\Calculator.exe
+H:\C# programs\Calculator\bin\Debug\Calculator.pdb
+H:\C# programs\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+H:\C# programs\Calculator\obj\Debug\Calculator.Form1.resources
+H:\C# programs\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+H:\C# programs\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+H:\C# programs\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+H:\C# programs\Calculator\obj\Debug\Calculator.exe
+H:\C# programs\Calculator\obj\Debug\Calculator.pdb
+H:\Файлы и доккументы\LABS\6 семестр\ИСИС\ЛР 5\Calculator\bin\Debug\Calculator.exe.config
+H:\Файлы и доккументы\LABS\6 семестр\ИСИС\ЛР 5\Calculator\bin\Debug\Calculator.exe
+H:\Файлы и доккументы\LABS\6 семестр\ИСИС\ЛР 5\Calculator\bin\Debug\Calculator.pdb
+H:\Файлы и доккументы\LABS\6 семестр\ИСИС\ЛР 5\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+H:\Файлы и доккументы\LABS\6 семестр\ИСИС\ЛР 5\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+H:\Файлы и доккументы\LABS\6 семестр\ИСИС\ЛР 5\Calculator\obj\Debug\Calculator.Form1.resources
+H:\Файлы и доккументы\LABS\6 семестр\ИСИС\ЛР 5\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+H:\Файлы и доккументы\LABS\6 семестр\ИСИС\ЛР 5\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+H:\Файлы и доккументы\LABS\6 семестр\ИСИС\ЛР 5\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+H:\Файлы и доккументы\LABS\6 семестр\ИСИС\ЛР 5\Calculator\obj\Debug\Calculator.exe
+H:\Файлы и доккументы\LABS\6 семестр\ИСИС\ЛР 5\Calculator\obj\Debug\Calculator.pdb
