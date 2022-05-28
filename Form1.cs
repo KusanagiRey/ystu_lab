@@ -64,10 +64,17 @@ namespace Calculator
                 result = n1 * n2;
             }
             if (op == "/")
-                result = n1 / n2;
             {
-                
-            }
+                if (n2 == 0)
+                {
+                    MessageBox.Show("Нельзя делить на 0!", "Ошибка");
+                }
+                else
+                {
+                    result = n1 / n2;
+                }
+            }    
+            
             trigerOp = true;
             textBox1.Text = Convert.ToString(result);
         }
