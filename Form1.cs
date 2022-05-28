@@ -90,7 +90,8 @@ namespace Calculator
 
         private void zero_Click(object sender, EventArgs e)
         {
-            
+            textBox1.Text = "0";
+            trigerDot = true;
         }
 
         private void delete_Click(object sender, EventArgs e)
