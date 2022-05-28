@@ -88,7 +88,9 @@ namespace Calculator
 
         private void delete_Click(object sender, EventArgs e)
         {
-            
+            textBox1.Text = textBox1.Text.Substring(0, textBox1.Text.Length - 1);
+            if (textBox1.Text == "")
+                textBox1.Text = "0";
         }
     }
 }
